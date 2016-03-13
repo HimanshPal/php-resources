@@ -30,5 +30,5 @@ Here are also some recommended, quality and modern resources for starting with P
 * [thenewboston](https://www.thenewboston.com/videos.php?cat=11) - Free videos for learning PHP; *200 videos*
 
 ## Resources
-
+-
 * [Basics of programming for beginners](http://avinashseth.com/basics-programming-for-beginners/)
